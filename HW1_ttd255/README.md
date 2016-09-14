@@ -9,8 +9,8 @@ I uploaded two screenshots to my remote directory on Github(Link). Achilles Saxb
 
 Figure 1:
 
-![Figure 1_Assignment 2: the content in my .bashrc](/Hw1_test/My_bashrc.png)
+![Figure 1_Assignment 2: the content in my .bashrc](My_bashrc.png)
 
 Figure 2:
 
-![Figure 1_Assignment 2: my commands](/Hw1_test/MyCommands.png)
+![Figure 1_Assignment 2: my commands](MyCommands.png)
