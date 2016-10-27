@@ -1,0 +1,1 @@
+### I plot the fraction of people get killed or injured in each hour per day from 2012 to 2016 to examine if there is any difference between the ratio of people get killed or injured in different times of the day.
