@@ -1,0 +1,5 @@
+I set the summer time start from march until August while the rest is considered as the winter time.
+
+The global Moran's I statistics are slightly different between the summer and winter times, which are 0.648 and 0.654 respectively. The statistics indicates that there is not a lot of diversion between the summer and winter. Overall, the results show a positive autocorrelation between one area and its neighbors in New York.  
+
+Considering the local indicators of Moran's I, there is not much disfference in term of the number of hot spots between the summer and winter times. However, the number of cold spots increases by 18 in the winter time. There are more neighbors with low rides that are surrounded by the neighbors with low rides. This difference may be due to the decrease of bike rides in the winter time because of the cold weather.
