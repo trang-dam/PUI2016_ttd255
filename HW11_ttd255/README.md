@@ -1,0 +1,1 @@
+I uploaded the assignment 1 and assginment 2 to the folder in github repsitory
